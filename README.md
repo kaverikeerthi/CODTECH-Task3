@@ -62,7 +62,7 @@ This project demonstrates the complete machine learning pipeline — from data a
 
 ## output 
 ![task3(1) png ](https://github.com/user-attachments/assets/5acc8a2c-8a03-42e6-b67a-cc6aca87c31a)
-![task3(1) png ](https://github.com/user-attachments/assets/ec991a02-64fb-4af8-8a2c-62fc3904cf62)
+![task3(2) png ](https://github.com/user-attachments/assets/b70ba0e9-70e2-4173-b5a3-4b4810bb5d5b)
 
 
 
